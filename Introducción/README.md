@@ -32,7 +32,7 @@ También, con intención de adentrarse más en el mundo de la programación, se 
 > 2017.
 > Middletown, Del.
 
-> Metodología de la prograación. Algoritmos, diagramas de flujo y programas.
+> Metodología de la programación. Algoritmos, diagramas de flujo y programas.
 > Dr. Osvaldo Cairó Battistutti.
 > 3a. edición.
 > Alfaomega Grupo Editor.
