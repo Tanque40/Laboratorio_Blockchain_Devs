@@ -9,19 +9,20 @@ Hasta este punto se tratará de actualizar el repositorio al menos cada semana p
 
 ### Temario
 
-1.	Introducción
-    1. Blockchain
+1.	[Introducción](Introducción/README.md)
+    1. [Github](Introducción/Github.md)
+    1. [Blockchain](Introducción/Blockchain.md)
         1.	¿Qué es blockchain?
         1.	¿Cómo funciona blockchain?
         1.	¿En dónde se ha usado blockchain?
     1.	Programación 
         1.	¿Qué es un algoritmo?
         1.	Tipos de datos
-        1.	Estructuras de control
-            1.	If
-            1.	Switch
-            1.	For
-            1.	While
+        1.  Estructuras de control
+            - If
+            - Switch
+            - For
+            - While
         1.	Problemas simples
 1.	Estructuras de datos
     1.	Programación Orientada a Objetos
@@ -92,4 +93,4 @@ Hasta este punto se tratará de actualizar el repositorio al menos cada semana p
 
 Cada tema tiene su propio contenido por separado por si se deasea explorar cada sección del mismo.
 
-**Nota.** Si no se tiene experiencia en programación se recomienda usar el editor de repl.it. Se puede tambien dar el seguimiento de este repositorio desde este [link](https://repl.it/@Tanque40/LaboratorioBlockchainDevs).
+**Nota.** Si no se tiene experiencia en programación se recomienda usar el editor de [repl.it](https://repl.it/). Se puede tambien dar el seguimiento de este repositorio desde este [link](https://repl.it/@Tanque40/LaboratorioBlockchainDevs), donde si tienen una cuenta creada se les hará un duplicado del contenido en automático.
