@@ -12,7 +12,7 @@ Para este sección del curso el lenguaje principal será **Java**, pero las dife
 
 Recomendación para usar java en este [link](https://youtu.be/uHBqENZhvyM).
 
-Todos los lenguajes e pueden ocupar desde repl.it
+Todos los lenguajes se pueden ocupar desde repl.it
 
 ## Algunos conceptos
 
@@ -26,6 +26,13 @@ El primer, y el más importante, concepto que veremos es el de **algoritmo**, es
 
 En la vida ocupamos algoritmos de manera inadvertida todos los días, desde el cómo nos lavamos los dientes, cómo nos vestimos, hasta el cómo hacemos nuestras tareas escolares o laborales.
 
-Lo interesante de saber este concepto es que se vuelve complicado ahora entender cómo hacer un algoritmo, pero es más facil de lo que parece, para ello necesitaremos de distintas herramientas.
+Tenemos por ejemplo, un algoritmo para preparar una sopa instantanea:
 
+**Ingedientes:**
+- $\frac{1}{2}\$ Litro de agua
+- Sopa instantanea de nuestra preferencia
+-
+
+
+Lo interesante de saber este concepto es que ahora, se vuelve complicado entender cómo hacer un algoritmo, pero es más facil de lo que parece, para ello necesitaremos de distintas herramientas.
 
