@@ -29,7 +29,7 @@ En la vida ocupamos algoritmos de manera inadvertida todos los días, desde el c
 Tenemos por ejemplo, un algoritmo para preparar una sopa instantanea:
 
 **Ingedientes:**
-- $\frac{1}{2}\$ Litro de agua
+- 1/2 Litro de agua
 - Sopa instantanea de nuestra preferencia
 -
 
