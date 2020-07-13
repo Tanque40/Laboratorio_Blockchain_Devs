@@ -12,9 +12,9 @@ Dentro de este archivo iré registrando el tiempo, actividades y duración de ca
 El día de hoy comienzo con la escritura de la bítacora. E invesigación sobre el proyecto personal que quisiera trabajar. Notas sobr el [proyecto](primer_idea.md)
 
 Documentos leídos:
-- [¿Cómo blockchain fortalece la cadena de suministros?](https://theonebrief.com/latam/post/como-blockchain-fortalece-las-cadenas-de-suministro/)
+-[¿Cómo blockchain fortalece la cadena de suministros?](https://theonebrief.com/latam/post/como-blockchain-fortalece-las-cadenas-de-suministro/)
 
-Por leer: 
-- [ ] [FedEx Moves Forward With Blockchain Logistics Plans](https://www.coindesk.com/fedex-moves-forward-blockchain-logistics-plans)
-- [ ] [Maersk, IBM create world's first blockchain-based, electronic shipping platform](https://www.computerworld.com/article/3247758/maersk-ibm-create-worlds-first-blockchain-based-electronic-shipping-platform.html)
-- [ ] [Walmart and 9 Food Giants Team Up on IBM Blockchain Plans](https://fortune.com/2017/08/22/walmart-blockchain-ibm-food-nestle-unilever-tyson-dole/) 
+Por leer:
+-[ ] [FedEx Moves Forward With Blockchain Logistics Plans](https://www.coindesk.com/fedex-moves-forward-blockchain-logistics-plans)
+-[ ] [Maersk, IBM create world's first blockchain-based, electronic shipping platform](https://www.computerworld.com/article/3247758/maersk-ibm-create-worlds-first-blockchain-based-electronic-shipping-platform.html)
+-[ ] [Walmart and 9 Food Giants Team Up on IBM Blockchain Plans](https://fortune.com/2017/08/22/walmart-blockchain-ibm-food-nestle-unilever-tyson-dole/)

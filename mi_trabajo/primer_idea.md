@@ -7,4 +7,3 @@ En cuanto a la seguridad no daremos acceso a la información personal de cada us
 La idea suena invasiva en cuanto la privacidad de un usuario, pero para eso es este tiempo, investigaré sobre las posibilidades y la viabilidad de este proyecto.
 
 Primeramente puede ser que la aplicación sea no solo para Covid-19, sino que sirva para llevar el registro y/o rastreo de cualquier enfermedad infecciosa, para prevenir el exparcimiento de cualquier nueva pandemia.
-
