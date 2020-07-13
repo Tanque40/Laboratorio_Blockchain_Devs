@@ -19,6 +19,8 @@ Cada lenguaje tendrá un instructivo de instalación y/o de uso para facilitar c
 
 También, con intención de adentrarse más en el mundo de la programación, se incluirá una sección de [*Problemas Avanzados*](Problemas_Avanzados.md) los cuales ayudarán a mejorar la lógica de programación. Los problemas irán siendo cada vez más difíciles para un mejor trabajo de pensamiento. De esta sección no se incluirán respuestas correctas, por lo que es a libertad del lector dar respuesta, pero siempre se puede consultar a los instructores sobre las dudas que se tengan.
 
+[Volver](../README.md)
+
 ## Bibliografía
 
 > Blockchain for dummies.
