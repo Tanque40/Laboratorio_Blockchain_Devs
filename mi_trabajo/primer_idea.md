@@ -7,3 +7,7 @@ En cuanto a la seguridad no daremos acceso a la información personal de cada us
 La idea suena invasiva en cuanto la privacidad de un usuario, pero para eso es este tiempo, investigaré sobre las posibilidades y la viabilidad de este proyecto.
 
 Primeramente puede ser que la aplicación sea no solo para Covid-19, sino que sirva para llevar el registro y/o rastreo de cualquier enfermedad infecciosa, para prevenir el exparcimiento de cualquier nueva pandemia.
+
+Se puede manejar completamente como una línea de suministro, una persona se registra, si se hace una prueba de la enfermedad y resulta positiva, el médico encargado de la prueba y el paciente se encargan de validar esta información, donde el voto del médico tiene más peso para esta decisión. En caso de que sea en un hospital podemos tener un manager que se encargue de dar una validación final al caso para darle más seguridad.
+
+Una vez que se confirmo, se busca en la base de datos todos lo registros que se tengan de los lugares que visitó la persona y si en alguno de esos lugares alguien más con la aplicación será notificado sobre su cercanía con un infectado y cuales deberían ser sus medidas de precaución.
